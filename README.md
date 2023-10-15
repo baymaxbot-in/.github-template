@@ -83,7 +83,7 @@ Before viewing the documentation, ensure you have the following prerequisites in
 Now, you can browse and interact with the project documentation using Docsify.
 
 ## License
-This Repository is licensed under the [Closed Source License](./LICENSE.md).
+This Repository is licensed under the [Closed Source License](./LICENSE).
 
 ```
 Copyright (C) 2023-2025 Baymax Bot - All Rights Reserved.
