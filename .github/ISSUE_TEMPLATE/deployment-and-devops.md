@@ -3,7 +3,7 @@ name: Deployment and DevOps
 about: Provide a brief summary of the deployment and DevOps task you are proposing
   or requesting.
 title: ''
-labels: ''
+labels: Deployment and DevOps
 assignees: ''
 
 ---

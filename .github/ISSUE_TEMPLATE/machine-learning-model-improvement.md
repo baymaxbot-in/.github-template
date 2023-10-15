@@ -3,7 +3,7 @@ name: Machine Learning Model Improvement
 about: Provide a concise summary of the machine learning model improvement you are
   proposing or requesting.
 title: ''
-labels: ''
+labels: Machine Learning Model
 assignees: ''
 
 ---

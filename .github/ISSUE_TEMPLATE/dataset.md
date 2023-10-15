@@ -2,7 +2,7 @@
 name: Dataset
 about: Provide a brief summary of the dataset-related issue or request.
 title: ''
-labels: ''
+labels: Dataset
 assignees: ''
 
 ---

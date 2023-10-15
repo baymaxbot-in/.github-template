@@ -3,7 +3,7 @@ name: Server and Backend Enhancement
 about: Provide a brief summary of the server and backend enhancement you are proposing
   or requesting.
 title: ''
-labels: ''
+labels: Server/Backend
 assignees: ''
 
 ---

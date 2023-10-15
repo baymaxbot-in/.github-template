@@ -2,7 +2,7 @@
 name: Front-end Enhancement
 about: Provide a brief summary of the front-end enhancement you are proposing or requesting.
 title: ''
-labels: ''
+labels: Front-end
 assignees: ''
 
 ---

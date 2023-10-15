@@ -3,7 +3,7 @@ name: Documentation Update
 about: " suggestions for improving project documentation, including API documentation,
   setup guides, and user manuals."
 title: ''
-labels: ''
+labels: Documentation, Usability
 assignees: ''
 
 ---

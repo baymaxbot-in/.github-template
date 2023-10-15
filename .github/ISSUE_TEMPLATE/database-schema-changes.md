@@ -3,7 +3,7 @@ name: Database Schema Changes
 about: Provide a brief summary of the database schema change you are proposing or
   requesting.
 title: ''
-labels: ''
+labels: Database
 assignees: ''
 
 ---
