@@ -1,9 +1,7 @@
 # Repository Name
-
 [Short project description]
 
 ## Table of Contents
-
 - [Project Overview](#project-overview)
 - [Tech Stack](#tech-stack)
   - [Development Environment](#development-environment)
@@ -23,6 +21,7 @@
 - **Programming Language**:
 - **Project manager**:
 - **IDE**:
+- **Framework**:
 - **Libraries/Dependencies**:
 - **Operating System**:
 - **Other (Mention)**:
